@@ -42,5 +42,5 @@ Listado de proyectos de la CNCF: [Proyectos de la CNCF](https://contribute.cncf.
 Consejos generales:
 - [Guía para comenzar a contribuir](https://contribute.cncf.io/contributors/getting-started/)
 
-
+Acceso a la presentación [Canvas](https://www.canva.com/design/DAGf1ixzbU0/JSbeHoPjn1rFDQmz-WTdtg/edit?utm_content=DAGf1ixzbU0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
